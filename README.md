@@ -11,8 +11,9 @@
  
  2) To crawl and export to file, use following command:
   scrapy crawl freecourses -o filename.*
+  
   where:
   - filename is desired export file
-  - * is extension. Scrapy support export to *.csv; *.json and *.xml
+  - (*) is extension. Scrapy support export to *.csv; *.json and *.xml
   
   For example: scrapy crawl freecourses -o harvardfreecourses.json
