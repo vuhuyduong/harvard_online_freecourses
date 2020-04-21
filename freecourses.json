@@ -1,0 +1,356 @@
+[
+  {
+    "course_name": "CS50's Introduction to Game Development",
+    "course_category": "Programming",
+    "course_duration": "12 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0"
+  },
+  {
+    "course_name": "CS50's Web Programming with Python and JavaScript",
+    "course_category": "Programming",
+    "course_duration": "12 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0"
+  },
+  {
+    "course_name": "CS50's Mobile App Development with React Native",
+    "course_category": "Programming",
+    "course_duration": "13 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/cs50s-mobile-app-development-react-native?delta=0"
+  },
+  {
+    "course_name": "Lessons from Ebola: Preventing the Next Pandemic",
+    "course_category": "Health & Medicine",
+    "course_duration": "4 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/lessons-ebola-preventing-next-pandemic?delta=0"
+  },
+  {
+    "course_name": "Nonprofit Financial Stewardship Webinar: Introduction to Accounting and Financial Statements",
+    "course_category": "Business",
+    "course_duration": null,
+    "course_link": "https://online-learning.harvard.edu/course/nonprofit-financial-stewardship-webinar-introduction-accounting-and-financial-statements?delta=0"
+  },
+  {
+    "course_name": "CS50: Introduction to Computer Science",
+    "course_category": "Programming",
+    "course_duration": "11 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0"
+  },
+  {
+    "course_name": "Hinduism Through Its Scriptures",
+    "course_category": "Humanities",
+    "course_duration": "4 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/hinduism-through-its-scriptures?delta=0"
+  },
+  {
+    "course_name": "Christianity Through Its Scriptures",
+    "course_category": "Humanities",
+    "course_duration": "4 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/christianity-through-its-scriptures?delta=0"
+  },
+  {
+    "course_name": " Sikhism Through Its Scriptures",
+    "course_category": "Humanities",
+    "course_duration": "4 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/sikhism-through-its-scriptures-0?delta=0"
+  },
+  {
+    "course_name": "Pyramids of Giza: Ancient Egyptian Art and Archaeology",
+    "course_category": "Art & Design",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/pyramids-giza-ancient-egyptian-art-and-archaeology?delta=0"
+  },
+  {
+    "course_name": "Child Protection: Children's Rights in Theory and Practice",
+    "course_category": "Social Sciences",
+    "course_duration": "11 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/child-protection-childrens-rights-theory-and-practice?delta=0"
+  },
+  {
+    "course_name": "CS50 for Lawyers",
+    "course_category": "Computer Science",
+    "course_duration": "10 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/cs50-lawyers?delta=0"
+  },
+  {
+    "course_name": "MalariaX: Defeating Malaria from the Genes to the Globe",
+    "course_category": "Health & Medicine",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/malariax-defeating-malaria-genes-globe?delta=0"
+  },
+  {
+    "course_name": "The FDA and Prescription Drugs: Current Controversies in Context",
+    "course_category": "Health & Medicine",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/fda-and-prescription-drugs-current-controversies-context?delta=0"
+  },
+  {
+    "course_name": "Improving Global Health: Focusing on Quality and Safety",
+    "course_category": "Health & Medicine",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/improving-global-health-focusing-quality-and-safety?delta=0"
+  },
+  {
+    "course_name": "Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",
+    "course_category": "Science",
+    "course_duration": "5 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-1-electrical-properties-neuron?delta=0"
+  },
+  {
+    "course_name": "Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching",
+    "course_category": "Education & Teaching",
+    "course_duration": "10 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/introduction-data-wise-collaborative-process-improve-learning-teaching?delta=0"
+  },
+  {
+    "course_name": "Monteverdi\u2019s L\u2019Orfeo and the Birth of Opera",
+    "course_category": "Art & Design",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/first-nights-monteverdi%E2%80%99s-l%E2%80%99orfeo-and-birth-opera?delta=0"
+  },
+  {
+    "course_name": "Handel's Messiah and Baroque Oratorio",
+    "course_category": "Art & Design",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/first-nights-handel%E2%80%99s-messiah-and-baroque-oratorio?delta=0"
+  },
+  {
+    "course_name": "Beethoven's 9th Symphony and the 19th Century Orchestra",
+    "course_category": "Art & Design",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/first-nights-beethoven%E2%80%99s-9th-symphony-and-19th-century-orchestra?delta=0"
+  },
+  {
+    "course_name": "Backyard Meteorology: The Science of Weather",
+    "course_category": "Science",
+    "course_duration": "6 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/backyard-meteorology-science-weather?delta=0"
+  },
+  {
+    "course_name": "Shakespeare\u2019s Othello: The Moor",
+    "course_category": "Humanities",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/shakespeares-othello-moor?delta=0"
+  },
+  {
+    "course_name": "Stravinsky\u2019s Rite of Spring: Modernism, Ballet, and Riots",
+    "course_category": "Art & Design",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/first-nights-igor-stravinsky%E2%80%99s-rite-spring-modernism-ballet-and-riots?delta=0"
+  },
+  {
+    "course_name": "Energy Within Environmental Constraints",
+    "course_category": "Science",
+    "course_duration": "10 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/energy-within-environmental-constraints?delta=0"
+  },
+  {
+    "course_name": "Using Python for Research",
+    "course_category": "Computer Science",
+    "course_duration": "5 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/using-python-research?delta=0"
+  },
+  {
+    "course_name": "The Health Effects of Climate Change",
+    "course_category": "Health & Medicine",
+    "course_duration": "7 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/health-effects-climate-change?delta=0"
+  },
+  {
+    "course_name": "Principles, Statistical and Computational Tools for Reproducible Science",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-science?delta=0"
+  },
+  {
+    "course_name": "Data Science: Probability",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-probability?delta=0"
+  },
+  {
+    "course_name": "Data Science: Inference and Modeling",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=0"
+  },
+  {
+    "course_name": "Data Science: Productivity Tools",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-productivity-tools?delta=0"
+  },
+  {
+    "course_name": "Data Science: Linear Regression",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-linear-regression?delta=0"
+  },
+  {
+    "course_name": "Data Science: Machine Learning",
+    "course_category": "Computer Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-machine-learning?delta=0"
+  },
+  {
+    "course_name": "Data Science: Capstone",
+    "course_category": "Data Science",
+    "course_duration": "2 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-capstone?delta=0"
+  },
+  {
+    "course_name": "Data Science: Visualization",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-visualization?delta=0"
+  },
+  {
+    "course_name": "Data Science: Probability",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-probability?delta=0"
+  },
+  {
+    "course_name": "Data Science: Inference and Modeling",
+    "course_category": "Data Science",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=0"
+  },
+  {
+    "course_name": "PredictionX: Omens, Oracles & Prophecies",
+    "course_category": "Humanities",
+    "course_duration": "1 week long",
+    "course_link": "https://online-learning.harvard.edu/course/predictionx-omens-oracles-prophecies?delta=0"
+  },
+  {
+    "course_name": "Fat Chance: Probability from the Ground Up",
+    "course_category": "Mathematics",
+    "course_duration": "7 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/fat-chance-probability-ground?delta=0"
+  },
+  {
+    "course_name": "Strengthening Community Health Worker Programs",
+    "course_category": "Health & Medicine",
+    "course_duration": "6 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/strengthening-community-health-worker-programs?delta=0"
+  },
+  {
+    "course_name": "Introduction to Probability (on edX)",
+    "course_category": "Mathematics",
+    "course_duration": "7 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/introduction-probability-edx?delta=0"
+  },
+  {
+    "course_name": "High-Dimensional Data Analysis",
+    "course_category": "Data Science",
+    "course_duration": "4 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-analysis-life-sciences-4-high-dimensional-data-analysis?delta=0"
+  },
+  {
+    "course_name": "Introduction to Linear Models and Matrix Algebra",
+    "course_category": "Data Science",
+    "course_duration": "4 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/data-analysis-life-sciences-2-introduction-linear-models-and-matrix-algebra?delta=0"
+  },
+  {
+    "course_name": "Statistics and R",
+    "course_category": "Data Science",
+    "course_duration": null,
+    "course_link": "https://online-learning.harvard.edu/course/statistics-and-r?delta=1"
+  },
+  {
+    "course_name": "Principles of Biochemistry",
+    "course_category": "Science",
+    "course_duration": "15 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/principles-biochemistry-1?delta=0"
+  },
+  {
+    "course_name": "Japanese Books: From Manuscript to Print",
+    "course_category": "Humanities",
+    "course_duration": "9 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/japanese-books-manuscript-print?delta=0"
+  },
+  {
+    "course_name": "CS50's Introduction to Artificial Intelligence with Python",
+    "course_category": "Computer Science",
+    "course_duration": "7 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0"
+  },
+  {
+    "course_name": "Mechanical Ventilation for COVID-19",
+    "course_category": "Health & Medicine",
+    "course_duration": "1 week long",
+    "course_link": "https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0"
+  },
+  {
+    "course_name": "Shakespeare\u2019s Merchant of Venice: Shylock",
+    "course_category": "Humanities",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/shakespeare%E2%80%99s-merchant-venice-shylock?delta=1"
+  },
+  {
+    "course_name": null,
+    "course_category": "Humanities",
+    "course_duration": "5 weeks long",
+    "course_link": "https://online-learning.harvard.edu"
+  },
+  {
+    "course_name": "Shakespeare's Life and Work",
+    "course_category": "Humanities",
+    "course_duration": "4 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/shakespeares-life-and-work?delta=0"
+  },
+  {
+    "course_name": "Shakespeare\u2019s Hamlet: The Ghost",
+    "course_category": "Humanities",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/shakespeares-hamlet-ghost?delta=1"
+  },
+  {
+    "course_name": "Shakespeare\u2019s Othello: The Moor",
+    "course_category": "Humanities",
+    "course_duration": "3 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/shakespeares-othello-moor?delta=1"
+  },
+  {
+    "course_name": "Contract Law: From Trust to Promise to Contract",
+    "course_category": "Social Sciences",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/contractsx-trust-promise-contract?delta=1"
+  },
+  {
+    "course_name": "The Architectural Imagination",
+    "course_category": "Art & Design",
+    "course_duration": "10 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/architectural-imagination?delta=1"
+  },
+  {
+    "course_name": "Entrepreneurship in Emerging Economies",
+    "course_category": "Business",
+    "course_duration": "6 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/entrepreneurship-in-emerging-economies?delta=0"
+  },
+  {
+    "course_name": "Rhetoric: The Art of Persuasive Writing and Public Speaking",
+    "course_category": "Humanities",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/rhetoric-art-persuasive-writing-and-public-speaking?delta=1"
+  },
+  {
+    "course_name": " Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",
+    "course_category": "Humanities",
+    "course_duration": "10 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/bioethics-law-medicine-and-ethics-reproductive-technologies-and-genetics?delta=1"
+  },
+  {
+    "course_name": "Justice",
+    "course_category": "Humanities",
+    "course_duration": "12 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/justice?delta=1"
+  },
+  {
+    "course_name": "Contract Law: From Trust to Promise to Contract",
+    "course_category": "Social Sciences",
+    "course_duration": "8 weeks long",
+    "course_link": "https://online-learning.harvard.edu/course/contractsx-trust-promise-contract?delta=2"
+  }
+]
